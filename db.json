@@ -1,0 +1,120 @@
+{
+  "Users": [
+    {
+      "fullname": "Madhu",
+      "email": "poojashree202111@gmail.com",
+      "password": "12345",
+      "mobile": 6362531467,
+      "id": 1,
+      "income": 90,
+      "threshold": 80,
+      "currentexpenditure": 0,
+      "expenses": [
+        {
+          "food": [
+            3000
+          ]
+        },
+        {
+          "hostel": [
+            8000
+          ]
+        },
+        {
+          "pg": [
+            10
+          ]
+        },
+        {
+          "hostel": [
+            1000
+          ]
+        },
+        {
+          "food": [
+            200
+          ]
+        },
+        {
+          "food": [
+            56
+          ]
+        },
+        {
+          "food": [
+            10
+          ]
+        },
+        {
+          "pg": [
+            40
+          ]
+        },
+        {
+          "oi": [
+            455
+          ]
+        },
+        {
+          "yu": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Madhu",
+      "email": "poojashree202111@gmail.com",
+      "password": "12345",
+      "mobile": 6362531467,
+      "id": 2,
+      "income": 20000,
+      "threshold": 11000,
+      "currentexpenditure": 11000,
+      "expenses": [
+        {
+          "food": [
+            3000
+          ]
+        },
+        {
+          "hostel": [
+            8000
+          ]
+        },
+        {
+          "hostel": [
+            8000
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "rashmi",
+      "email": "rash",
+      "password": "123",
+      "mobile": 12345,
+      "id": 3,
+      "income": 54,
+      "threshold": 32
+    },
+    {
+      "fullname": "chaitra",
+      "email": "chai",
+      "password": "124",
+      "mobile": 1234,
+      "id": 4,
+      "income": 6,
+      "threshold": 3
+    },
+    {
+      "fullname": "madhu",
+      "email": "mymail",
+      "password": "56",
+      "mobile": 5467,
+      "id": 5,
+      "income": 54,
+      "threshold": 43
+    }
+  ]
+}
